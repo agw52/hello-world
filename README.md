@@ -1,2 +1,2 @@
 # hello-world
-My first repository creation
+Omae wa mo shindeiru
